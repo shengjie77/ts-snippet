@@ -3,4 +3,4 @@
 A frequently-used TypeScript snippet collection.
 
 - decorator
-    - deprecated: used for marking deprecated method
+    - [deprecated](./src/decorator/deprecated.ts): used for marking deprecated method
