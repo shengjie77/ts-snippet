@@ -1,3 +1,3 @@
 # TypeScript snippet
 
-This repo is a frequently-used TypeScript snippet collection.
+A frequently-used TypeScript snippet collection.
