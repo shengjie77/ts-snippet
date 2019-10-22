@@ -26,4 +26,3 @@ export function deprecated(message?: string) {
   }
 }
 
-let fn: MethodDecorator
