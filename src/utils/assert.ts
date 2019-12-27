@@ -4,3 +4,9 @@ export function assertIsDefined<T>(val?: T, message?: string): asserts val is T 
     throw new Error(message);
   }
 }
+
+export function assert(val: boolean, message?: string): asserts val {
+  if (!val) {
+    throw new Error(message);
+  }
+}
