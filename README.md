@@ -4,3 +4,5 @@
 
 - decorator
     - [deprecated](./src/decorator/deprecated.ts): used for marking deprecated method
+
+- [TaskQueue](./src/task-queue/example.ts): 一个异步工作队列
