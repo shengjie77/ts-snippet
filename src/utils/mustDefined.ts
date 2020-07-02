@@ -10,9 +10,9 @@
  * @deprecated use assertIsDefined instead
  */
 export function mustDefined<T>(obj?: T, errMessage?: string) {
-  if (obj === undefined) {
-    throw new Error(errMessage);
-  }
+	if (obj === undefined) {
+		throw new Error(errMessage);
+	}
 
-  return obj;
+	return obj;
 }

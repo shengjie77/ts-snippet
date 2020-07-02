@@ -1,6 +1,6 @@
 
 export interface Task {
 
-  run(): Promise<any>;
+	run(): Promise<any>;
 
 }
